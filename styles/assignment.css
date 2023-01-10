@@ -1,5 +1,5 @@
 * {
-    margin: 10px;
+    margin: 0px;
 }
 
 .header-banner {
@@ -27,10 +27,11 @@
 }
 
 .button {
-    margin-left: 1315px;
+    margin-left: 1365px;
     background-color: orangered;
     color: floralwhite;
     border: none;
+    margin-top: 15px;
     width: 160px;
     height: 64px;
     left: 1210px;
