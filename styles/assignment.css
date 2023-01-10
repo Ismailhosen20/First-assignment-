@@ -1,0 +1,38 @@
+* {
+    margin: 10px;
+}
+
+.header-banner {
+    background-image: url("../images/banner/banner1.png");
+    width: 1600px;
+    height: 808px;
+
+}
+
+.main-title {
+    text-align: right;
+    padding-top: 350px;
+    padding-right: 75px;
+    font-size: 300%;
+
+}
+
+.paragraph {
+    color: #444343;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: right;
+    padding-right: 75px;
+    margin-top: 15px;
+}
+
+.button {
+    margin-left: 1315px;
+    background-color: orangered;
+    color: floralwhite;
+    border: none;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+}
